@@ -1,0 +1,2 @@
+ThersholdValue	WindowSize	Step_increase_threshold_wrtMax	Min_total_surges_window_increase_wrtMax	Max_threshold_previouslowyears_wrtMax	Min_prop_previouslowyears_wrtoutsidetheWindow
+0	5	0.040000	0.200000	0.100000	0.800000
