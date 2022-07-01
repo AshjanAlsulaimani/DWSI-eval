@@ -1,9 +1,0 @@
-Error: wrong number of arguments, expecting 3
-Usage: ./EVALUATEDISTANCE_test [options] <Path to Gold EMERGENCE Files> <Path to Predicted Files>  
- <Path to Gold EMERGENCE Files> contains the sense info evaluation files of gold emergence files, if option p choose the input will change
--h <help message>
--s <system Name>
-
-Non-option argument /home/alsulaia/now/MeSHXMLFILES/MeshCode/WSIPUBMED/NEWRESULTS_palywsi/GoldInstancesFromFilteredPMID/EXPERIMENT/FILTERSTOPWORD/EMERGENCE_FILTEREDsw_NEO_someEliminated.0.DELETE/GOLD_EMERGENCE_Tue_Mar_10_17:25:04_2020/SENSE_GIVEN_YEAR_PROBABILITIES_MRS_gaps/
-Non-option argument /home/alsulaia/now/DETM-DWSI/detm_results_train_fullonly_embedintrinsic_mindf0_epochs500_ninstances2000/
-Non-option argument log.SENSE_GIVEN_YEAR_PROBABILITIES_MRS_gaps_detm
